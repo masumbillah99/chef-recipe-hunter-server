@@ -1,66 +1,415 @@
 [
     {
         "id": 1,
-        "chef_picture": "https://i.ibb.co/vCNpxDB/person-2.png",
+        "chef_picture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
         "chef_name": "John Smith",
         "years_of_experience": 10,
         "num_of_recipes": 50,
-        "likes": 1000
+        "likes": 1000,
+        "description": "A hearty and healthy soup with lentils, vegetables, and spices.",
+        "recipe_info": [
+            {
+                "recipe_name": "Lentil Soup",
+                "ingredients": [
+                    "2 tablespoons olive oil",
+                    "1 onion, chopped",
+                    "3 carrots, peeled and chopped",
+                    "3 celery stalks, chopped",
+                    "4 cloves garlic, minced"
+                ],
+                "cooking_method": [
+                    "Heat the olive oil in a large pot over medium heat. Add the onion, carrots, and celery, and sauté until softened, about 5 minutes.",
+                    "Add the garlic, cumin, coriander, cinnamon, and cloves. Cook for 1 minute.",
+                    "Add the lentils, vegetable broth, and diced tomatoes. Bring to a simmer.",
+                    "Cover and simmer until the lentils are tender, about 30 minutes.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot, garnished with chopped parsley."
+                ],
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Spaghetti and Meatballs",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "1 pound ground beef",
+                    "1/2 cup bread crumbs",
+                    "1/4 cup milk",
+                    "1/4 cup grated Parmesan cheese"
+                ],
+                "cooking_method": [
+                    "In a large bowl, combine the ground beef, bread crumbs, milk, Parmesan cheese, parsley, garlic, egg, salt, and pepper. Mix well.",
+                    "Form the mixture into 2-inch meatballs.",
+                    "Heat the olive oil in a large saucepan over medium heat. Add the onion and sauté until softened, about 5 minutes.",
+                    "Add the crushed tomatoes, basil, oregano, and red pepper flakes. Bring to a simmer.",
+                    "Add the meatballs to the sauce and simmer until cooked through, about 20 minutes.",
+                    "Meanwhile, cook the spaghetti according to the package directions.",
+                    "Serve the spaghetti topped with the meatballs and sauce, and grated Parmesan cheese."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Lentil Soup",
+                "ingredients": [
+                    "2 tablespoons olive oil",
+                    "1 onion, chopped",
+                    "3 carrots, peeled and chopped",
+                    "3 celery stalks, chopped",
+                    "4 cloves garlic, minced"
+                ],
+                "cooking_method": [
+                    "Heat the olive oil in a large pot over medium heat. Add the onion, carrots, and celery, and sauté until softened, about 5 minutes.",
+                    "Add the garlic, cumin, coriander, cinnamon, and cloves. Cook for 1 minute.",
+                    "Add the lentils, vegetable broth, and diced tomatoes. Bring to a simmer.",
+                    "Cover and simmer until the lentils are tender, about 30 minutes.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot, garnished with chopped parsley."
+                ],
+                "rating": 4.5
+            }
+        ]
     },
     {
         "id": 2,
-        "chef_picture": "https://i.ibb.co/vCNpxDB/person-2.png",
+        "chef_picture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
         "chef_name": "Emily Jones",
         "years_of_experience": 5,
         "num_of_recipes": 30,
-        "likes": 500
+        "likes": 500,
+        "description": "A classic spaghetti dish with tomato sauce, meatballs, and Parmesan cheese.",
+        "recipe_info": [
+            {
+                "recipe_name": "Lentil Soup",
+                "ingredients": [
+                    "2 tablespoons olive oil",
+                    "1 onion, chopped",
+                    "3 carrots, peeled and chopped",
+                    "3 celery stalks, chopped",
+                    "4 cloves garlic, minced"
+                ],
+                "cooking_method": [
+                    "Heat the olive oil in a large pot over medium heat. Add the onion, carrots, and celery, and sauté until softened, about 5 minutes.",
+                    "Add the garlic, cumin, coriander, cinnamon, and cloves. Cook for 1 minute.",
+                    "Add the lentils, vegetable broth, and diced tomatoes. Bring to a simmer.",
+                    "Cover and simmer until the lentils are tender, about 30 minutes.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot, garnished with chopped parsley."
+                ],
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Spaghetti and Meatballs",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "1 pound ground beef",
+                    "1/2 cup bread crumbs",
+                    "1/4 cup milk",
+                    "1/4 cup grated Parmesan cheese"
+                ],
+                "cooking_method": [
+                    "In a large bowl, combine the ground beef, bread crumbs, milk, Parmesan cheese, parsley, garlic, egg, salt, and pepper. Mix well.",
+                    "Form the mixture into 2-inch meatballs.",
+                    "Heat the olive oil in a large saucepan over medium heat. Add the onion and sauté until softened, about 5 minutes.",
+                    "Add the crushed tomatoes, basil, oregano, and red pepper flakes. Bring to a simmer.",
+                    "Add the meatballs to the sauce and simmer until cooked through, about 20 minutes.",
+                    "Meanwhile, cook the spaghetti according to the package directions.",
+                    "Serve the spaghetti topped with the meatballs and sauce, and grated Parmesan cheese."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Lentil Soup",
+                "ingredients": [
+                    "2 tablespoons olive oil",
+                    "1 onion, chopped",
+                    "3 carrots, peeled and chopped",
+                    "3 celery stalks, chopped",
+                    "4 cloves garlic, minced"
+                ],
+                "cooking_method": [
+                    "Heat the olive oil in a large pot over medium heat. Add the onion, carrots, and celery, and sauté until softened, about 5 minutes.",
+                    "Add the garlic, cumin, coriander, cinnamon, and cloves. Cook for 1 minute.",
+                    "Add the lentils, vegetable broth, and diced tomatoes. Bring to a simmer.",
+                    "Cover and simmer until the lentils are tender, about 30 minutes.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot, garnished with chopped parsley."
+                ],
+                "rating": 4.5
+            }
+        ]
     },
     {
         "id": 3,
-        "chef_picture": "https://i.ibb.co/vCNpxDB/person-2.png",
+        "chef_picture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
         "chef_name": "David Lee",
         "years_of_experience": 15,
         "num_of_recipes": 80,
-        "likes": 1200
+        "likes": 1200,
+        "description": "A hearty and healthy soup with lentils, vegetables, and spices.",
+        "recipe_info": [
+            {
+                "recipe_name": "Lentil Soup",
+                "ingredients": [
+                    "2 tablespoons olive oil",
+                    "1 onion, chopped",
+                    "3 carrots, peeled and chopped",
+                    "3 celery stalks, chopped",
+                    "4 cloves garlic, minced"
+                ],
+                "cooking_method": [
+                    "Heat the olive oil in a large pot over medium heat. Add the onion, carrots, and celery, and sauté until softened, about 5 minutes.",
+                    "Add the garlic, cumin, coriander, cinnamon, and cloves. Cook for 1 minute.",
+                    "Add the lentils, vegetable broth, and diced tomatoes. Bring to a simmer.",
+                    "Cover and simmer until the lentils are tender, about 30 minutes.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot, garnished with chopped parsley."
+                ],
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Spaghetti and Meatballs",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "1 pound ground beef",
+                    "1/2 cup bread crumbs",
+                    "1/4 cup milk"
+                ],
+                "cooking_method": [
+                    "In a large bowl, combine the ground beef, bread crumbs, milk, Parmesan cheese, parsley, garlic, egg, salt, and pepper. Mix well.",
+                    "Form the mixture into 2-inch meatballs.",
+                    "Heat the olive oil in a large saucepan over medium heat. Add the onion and sauté until softened, about 5 minutes.",
+                    "Add the crushed tomatoes, basil, oregano, and red pepper flakes. Bring to a simmer.",
+                    "Add the meatballs to the sauce and simmer until cooked through, about 20 minutes.",
+                    "Meanwhile, cook the spaghetti according to the package directions.",
+                    "Serve the spaghetti topped with the meatballs and sauce, and grated Parmesan cheese."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Lentil Soup",
+                "ingredients": [
+                    "2 tablespoons olive oil",
+                    "1 onion, chopped",
+                    "3 carrots, peeled and chopped",
+                    "3 celery stalks, chopped",
+                    "4 cloves garlic, minced"
+                ],
+                "cooking_method": [
+                    "Heat the olive oil in a large pot over medium heat. Add the onion, carrots, and celery, and sauté until softened, about 5 minutes.",
+                    "Add the garlic, cumin, coriander, cinnamon, and cloves. Cook for 1 minute.",
+                    "Add the lentils, vegetable broth, and diced tomatoes. Bring to a simmer.",
+                    "Cover and simmer until the lentils are tender, about 30 minutes.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot, garnished with chopped parsley."
+                ],
+                "rating": 4.5
+            }
+        ]
     },
     {
         "id": 4,
-        "chef_picture": "https://i.ibb.co/vCNpxDB/person-2.png",
+        "chef_picture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
         "chef_name": "Sarah Johnson",
         "years_of_experience": 8,
         "num_of_recipes": 40,
-        "likes": 700
+        "likes": 700,
+        "description": "A classic spaghetti dish with tomato sauce, meatballs, and Parmesan cheese.",
+        "recipe_info": [
+            {
+                "recipe_name": "Lentil Soup",
+                "ingredients": [
+                    "2 tablespoons olive oil",
+                    "1 onion, chopped",
+                    "3 carrots, peeled and chopped",
+                    "3 celery stalks, chopped",
+                    "4 cloves garlic, minced"
+                ],
+                "cooking_method": [
+                    "Heat the olive oil in a large pot over medium heat. Add the onion, carrots, and celery, and sauté until softened, about 5 minutes.",
+                    "Add the garlic, cumin, coriander, cinnamon, and cloves. Cook for 1 minute.",
+                    "Add the lentils, vegetable broth, and diced tomatoes. Bring to a simmer.",
+                    "Cover and simmer until the lentils are tender, about 30 minutes.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot, garnished with chopped parsley."
+                ],
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Spaghetti and Meatballs",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "1 pound ground beef",
+                    "1/2 cup bread crumbs",
+                    "1/4 cup milk",
+                    "1/4 cup grated Parmesan cheese"
+                ],
+                "cooking_method": [
+                    "In a large bowl, combine the ground beef, bread crumbs, milk, Parmesan cheese, parsley, garlic, egg, salt, and pepper. Mix well.",
+                    "Form the mixture into 2-inch meatballs.",
+                    "Heat the olive oil in a large saucepan over medium heat. Add the onion and sauté until softened, about 5 minutes.",
+                    "Add the crushed tomatoes, basil, oregano, and red pepper flakes. Bring to a simmer.",
+                    "Add the meatballs to the sauce and simmer until cooked through, about 20 minutes.",
+                    "Meanwhile, cook the spaghetti according to the package directions.",
+                    "Serve the spaghetti topped with the meatballs and sauce, and grated Parmesan cheese."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Lentil Soup",
+                "ingredients": [
+                    "2 tablespoons olive oil",
+                    "1 onion, chopped",
+                    "3 carrots, peeled and chopped",
+                    "3 celery stalks, chopped",
+                    "4 cloves garlic, minced"
+                ],
+                "cooking_method": [
+                    "Heat the olive oil in a large pot over medium heat. Add the onion, carrots, and celery, and sauté until softened, about 5 minutes.",
+                    "Add the garlic, cumin, coriander, cinnamon, and cloves. Cook for 1 minute.",
+                    "Add the lentils, vegetable broth, and diced tomatoes. Bring to a simmer.",
+                    "Cover and simmer until the lentils are tender, about 30 minutes.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot, garnished with chopped parsley."
+                ],
+                "rating": 4.5
+            }
+        ]
     },
     {
         "id": 5,
-        "chef_picture": "https://i.ibb.co/vCNpxDB/person-2.png",
+        "chef_picture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
         "chef_name": "Michael Brown",
         "years_of_experience": 20,
         "num_of_recipes": 100,
-        "likes": 2000
+        "likes": 2000,
+        "description": "A hearty and healthy soup with lentils, vegetables, and spices.",
+        "recipe_info": [
+            {
+                "recipe_name": "Lentil Soup",
+                "ingredients": [
+                    "2 tablespoons olive oil",
+                    "1 onion, chopped",
+                    "3 carrots, peeled and chopped",
+                    "3 celery stalks, chopped",
+                    "4 cloves garlic, minced"
+                ],
+                "cooking_method": [
+                    "Heat the olive oil in a large pot over medium heat. Add the onion, carrots, and celery, and sauté until softened, about 5 minutes.",
+                    "Add the garlic, cumin, coriander, cinnamon, and cloves. Cook for 1 minute.",
+                    "Add the lentils, vegetable broth, and diced tomatoes. Bring to a simmer.",
+                    "Cover and simmer until the lentils are tender, about 30 minutes.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot, garnished with chopped parsley."
+                ],
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Spaghetti and Meatballs",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "1 pound ground beef",
+                    "1/2 cup bread crumbs",
+                    "1/4 cup milk",
+                    "1/4 cup grated Parmesan cheese"
+                ],
+                "cooking_method": [
+                    "In a large bowl, combine the ground beef, bread crumbs, milk, Parmesan cheese, parsley, garlic, egg, salt, and pepper. Mix well.",
+                    "Form the mixture into 2-inch meatballs.",
+                    "Heat the olive oil in a large saucepan over medium heat. Add the onion and sauté until softened, about 5 minutes.",
+                    "Add the crushed tomatoes, basil, oregano, and red pepper flakes. Bring to a simmer.",
+                    "Add the meatballs to the sauce and simmer until cooked through, about 20 minutes.",
+                    "Meanwhile, cook the spaghetti according to the package directions.",
+                    "Serve the spaghetti topped with the meatballs and sauce, and grated Parmesan cheese."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Lentil Soup",
+                "ingredients": [
+                    "2 tablespoons olive oil",
+                    "1 onion, chopped",
+                    "3 carrots, peeled and chopped",
+                    "3 celery stalks, chopped",
+                    "4 cloves garlic, minced"
+                ],
+                "cooking_method": [
+                    "Heat the olive oil in a large pot over medium heat. Add the onion, carrots, and celery, and sauté until softened, about 5 minutes.",
+                    "Add the garlic, cumin, coriander, cinnamon, and cloves. Cook for 1 minute.",
+                    "Add the lentils, vegetable broth, and diced tomatoes. Bring to a simmer.",
+                    "Cover and simmer until the lentils are tender, about 30 minutes.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot, garnished with chopped parsley."
+                ],
+                "rating": 4.5
+            }
+        ]
     },
     {
         "id": 6,
-        "chef_picture": "https://i.ibb.co/vCNpxDB/person-2.png",
+        "chef_picture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
         "chef_name": "Emma Davis",
         "years_of_experience": 3,
         "num_of_recipes": 20,
-        "likes": 200
-    },
-    {
-        "id": 7,
-        "chef_picture": "https://i.ibb.co/vCNpxDB/person-2.png",
-        "chef_name": "Daniel Wilson",
-        "years_of_experience": 12,
-        "num_of_recipes": 60,
-        "likes": 900
-    },
-    {
-        "id": 8,
-        "chef_picture": "https://i.ibb.co/vCNpxDB/person-2.png",
-        "chef_name": "Mia Rodriguez",
-        "years_of_experience": 6,
-        "num_of_recipes": 35,
-        "likes": 450
+        "likes": 200,
+        "description": "A classic spaghetti dish with tomato sauce, meatballs, and Parmesan cheese.",
+        "recipe_info": [
+            {
+                "recipe_name": "Lentil Soup",
+                "ingredients": [
+                    "2 tablespoons olive oil",
+                    "1 onion, chopped",
+                    "3 carrots, peeled and chopped",
+                    "3 celery stalks, chopped",
+                    "4 cloves garlic, minced"
+                ],
+                "cooking_method": [
+                    "Heat the olive oil in a large pot over medium heat. Add the onion, carrots, and celery, and sauté until softened, about 5 minutes.",
+                    "Add the garlic, cumin, coriander, cinnamon, and cloves. Cook for 1 minute.",
+                    "Add the lentils, vegetable broth, and diced tomatoes. Bring to a simmer.",
+                    "Cover and simmer until the lentils are tender, about 30 minutes.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot, garnished with chopped parsley."
+                ],
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Spaghetti and Meatballs",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "1 pound ground beef",
+                    "1/2 cup bread crumbs",
+                    "1/4 cup milk",
+                    "1/4 cup grated Parmesan cheese"
+                ],
+                "cooking_method": [
+                    "In a large bowl, combine the ground beef, bread crumbs, milk, Parmesan cheese, parsley, garlic, egg, salt, and pepper. Mix well.",
+                    "Form the mixture into 2-inch meatballs.",
+                    "Heat the olive oil in a large saucepan over medium heat. Add the onion and sauté until softened, about 5 minutes.",
+                    "Add the crushed tomatoes, basil, oregano, and red pepper flakes. Bring to a simmer.",
+                    "Add the meatballs to the sauce and simmer until cooked through, about 20 minutes.",
+                    "Meanwhile, cook the spaghetti according to the package directions.",
+                    "Serve the spaghetti topped with the meatballs and sauce, and grated Parmesan cheese."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Lentil Soup",
+                "ingredients": [
+                    "2 tablespoons olive oil",
+                    "1 onion, chopped",
+                    "3 carrots, peeled and chopped",
+                    "3 celery stalks, chopped",
+                    "4 cloves garlic, minced"
+                ],
+                "cooking_method": [
+                    "Heat the olive oil in a large pot over medium heat. Add the onion, carrots, and celery, and sauté until softened, about 5 minutes.",
+                    "Add the garlic, cumin, coriander, cinnamon, and cloves. Cook for 1 minute.",
+                    "Add the lentils, vegetable broth, and diced tomatoes. Bring to a simmer.",
+                    "Cover and simmer until the lentils are tender, about 30 minutes.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot, garnished with chopped parsley."
+                ],
+                "rating": 4.5
+            }
+        ]
     }
 ]
