@@ -9,6 +9,7 @@
         "description": "A hearty and healthy soup with lentils, vegetables, and spices.",
         "recipe_info": [
             {
+                "_id": 1,
                 "recipe_name": "Lentil Soup",
                 "ingredients": [
                     "2 tablespoons olive oil",
@@ -28,6 +29,7 @@
                 "rating": 4.5
             },
             {
+                "_id": 2,
                 "recipe_name": "Spaghetti and Meatballs",
                 "ingredients": [
                     "1 pound spaghetti",
@@ -48,6 +50,7 @@
                 "rating": 4.8
             },
             {
+                "_id": 3,
                 "recipe_name": "Lentil Soup",
                 "ingredients": [
                     "2 tablespoons olive oil",
@@ -78,6 +81,7 @@
         "description": "A classic spaghetti dish with tomato sauce, meatballs, and Parmesan cheese.",
         "recipe_info": [
             {
+                "_id": 1,
                 "recipe_name": "Lentil Soup",
                 "ingredients": [
                     "2 tablespoons olive oil",
@@ -97,6 +101,7 @@
                 "rating": 4.5
             },
             {
+                "_id": 2,
                 "recipe_name": "Spaghetti and Meatballs",
                 "ingredients": [
                     "1 pound spaghetti",
@@ -117,6 +122,7 @@
                 "rating": 4.8
             },
             {
+                "_id": 3,
                 "recipe_name": "Lentil Soup",
                 "ingredients": [
                     "2 tablespoons olive oil",
@@ -147,6 +153,7 @@
         "description": "A hearty and healthy soup with lentils, vegetables, and spices.",
         "recipe_info": [
             {
+                "_id": 1,
                 "recipe_name": "Lentil Soup",
                 "ingredients": [
                     "2 tablespoons olive oil",
@@ -166,6 +173,7 @@
                 "rating": 4.5
             },
             {
+                "_id": 2,
                 "recipe_name": "Spaghetti and Meatballs",
                 "ingredients": [
                     "1 pound spaghetti",
@@ -185,6 +193,7 @@
                 "rating": 4.8
             },
             {
+                "_id": 3,
                 "recipe_name": "Lentil Soup",
                 "ingredients": [
                     "2 tablespoons olive oil",
@@ -215,6 +224,7 @@
         "description": "A classic spaghetti dish with tomato sauce, meatballs, and Parmesan cheese.",
         "recipe_info": [
             {
+                "_id": 1,
                 "recipe_name": "Lentil Soup",
                 "ingredients": [
                     "2 tablespoons olive oil",
@@ -234,6 +244,7 @@
                 "rating": 4.5
             },
             {
+                "_id": 2,
                 "recipe_name": "Spaghetti and Meatballs",
                 "ingredients": [
                     "1 pound spaghetti",
@@ -254,6 +265,7 @@
                 "rating": 4.8
             },
             {
+                "_id": 3,
                 "recipe_name": "Lentil Soup",
                 "ingredients": [
                     "2 tablespoons olive oil",
@@ -284,6 +296,7 @@
         "description": "A hearty and healthy soup with lentils, vegetables, and spices.",
         "recipe_info": [
             {
+                "_id": 1,
                 "recipe_name": "Lentil Soup",
                 "ingredients": [
                     "2 tablespoons olive oil",
@@ -303,6 +316,7 @@
                 "rating": 4.5
             },
             {
+                "_id": 2,
                 "recipe_name": "Spaghetti and Meatballs",
                 "ingredients": [
                     "1 pound spaghetti",
@@ -323,6 +337,7 @@
                 "rating": 4.8
             },
             {
+                "_id": 3,
                 "recipe_name": "Lentil Soup",
                 "ingredients": [
                     "2 tablespoons olive oil",
@@ -353,6 +368,7 @@
         "description": "A classic spaghetti dish with tomato sauce, meatballs, and Parmesan cheese.",
         "recipe_info": [
             {
+                "_id": 1,
                 "recipe_name": "Lentil Soup",
                 "ingredients": [
                     "2 tablespoons olive oil",
@@ -372,6 +388,7 @@
                 "rating": 4.5
             },
             {
+                "_id": 2,
                 "recipe_name": "Spaghetti and Meatballs",
                 "ingredients": [
                     "1 pound spaghetti",
@@ -392,6 +409,7 @@
                 "rating": 4.8
             },
             {
+                "_id": 3,
                 "recipe_name": "Lentil Soup",
                 "ingredients": [
                     "2 tablespoons olive oil",
