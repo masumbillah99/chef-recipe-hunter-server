@@ -11,6 +11,7 @@
             {
                 "_id": 1,
                 "recipe_name": "Lentil Soup",
+                "recipe_picture": "https://i.ibb.co/2KyrHnK/slider-3.jpg",
                 "ingredients": [
                     "2 tablespoons olive oil",
                     "1 onion, chopped",
@@ -31,6 +32,7 @@
             {
                 "_id": 2,
                 "recipe_name": "Spaghetti and Meatballs",
+                "recipe_picture": "https://i.ibb.co/PrVgvvP/slider-2.jpg",
                 "ingredients": [
                     "1 pound spaghetti",
                     "1 pound ground beef",
@@ -52,6 +54,7 @@
             {
                 "_id": 3,
                 "recipe_name": "Lentil Soup",
+                "recipe_picture": "https://i.ibb.co/7KvZHzM/slider-1.jpg",
                 "ingredients": [
                     "2 tablespoons olive oil",
                     "1 onion, chopped",
@@ -81,8 +84,9 @@
         "description": "A passionate and innovative chef with many years of experience in French and Italian cuisine. Skilled in menu planning, food preparation, and kitchen management. Has a reputation for creating unique and flavorful dishes using seasonal and locally-sourced ingredients.",
         "recipe_info": [
             {
-                "_id": 1,
+                "_id": 4,
                 "recipe_name": "Lentil Soup",
+                "recipe_picture": "https://i.ibb.co/7KvZHzM/slider-1.jpg",
                 "ingredients": [
                     "2 tablespoons olive oil",
                     "1 onion, chopped",
@@ -101,8 +105,9 @@
                 "rating": 4.5
             },
             {
-                "_id": 2,
+                "_id": 5,
                 "recipe_name": "Spaghetti and Meatballs",
+                "recipe_picture": "https://i.ibb.co/PrVgvvP/slider-2.jpg",
                 "ingredients": [
                     "1 pound spaghetti",
                     "1 pound ground beef",
@@ -122,8 +127,9 @@
                 "rating": 4.8
             },
             {
-                "_id": 3,
+                "_id": 6,
                 "recipe_name": "Lentil Soup",
+                "recipe_picture": "https://i.ibb.co/2KyrHnK/slider-3.jpg",
                 "ingredients": [
                     "2 tablespoons olive oil",
                     "1 onion, chopped",
@@ -153,8 +159,9 @@
         "description": "A passionate and innovative chef with many years of experience in French and Italian cuisine. Skilled in menu planning, food preparation, and kitchen management. Has a reputation for creating unique and flavorful dishes using seasonal and locally-sourced ingredients.",
         "recipe_info": [
             {
-                "_id": 1,
+                "_id": 7,
                 "recipe_name": "Lentil Soup",
+                "recipe_picture": "https://i.ibb.co/7KvZHzM/slider-1.jpg",
                 "ingredients": [
                     "2 tablespoons olive oil",
                     "1 onion, chopped",
@@ -173,8 +180,9 @@
                 "rating": 4.5
             },
             {
-                "_id": 2,
+                "_id": 8,
                 "recipe_name": "Spaghetti and Meatballs",
+                "recipe_picture": "https://i.ibb.co/PrVgvvP/slider-2.jpg",
                 "ingredients": [
                     "1 pound spaghetti",
                     "1 pound ground beef",
@@ -193,8 +201,9 @@
                 "rating": 4.8
             },
             {
-                "_id": 3,
+                "_id": 9,
                 "recipe_name": "Lentil Soup",
+                "recipe_picture": "https://i.ibb.co/2KyrHnK/slider-3.jpg",
                 "ingredients": [
                     "2 tablespoons olive oil",
                     "1 onion, chopped",
@@ -224,8 +233,9 @@
         "description": "A passionate and innovative chef with many years of experience in French and Italian cuisine. Skilled in menu planning, food preparation, and kitchen management. Has a reputation for creating unique and flavorful dishes using seasonal and locally-sourced ingredients.",
         "recipe_info": [
             {
-                "_id": 1,
+                "_id": 10,
                 "recipe_name": "Lentil Soup",
+                "recipe_picture": "https://i.ibb.co/7KvZHzM/slider-1.jpg",
                 "ingredients": [
                     "2 tablespoons olive oil",
                     "1 onion, chopped",
@@ -244,8 +254,9 @@
                 "rating": 4.5
             },
             {
-                "_id": 2,
+                "_id": 11,
                 "recipe_name": "Spaghetti and Meatballs",
+                "recipe_picture": "https://i.ibb.co/PrVgvvP/slider-2.jpg",
                 "ingredients": [
                     "1 pound spaghetti",
                     "1 pound ground beef",
@@ -265,8 +276,9 @@
                 "rating": 4.8
             },
             {
-                "_id": 3,
+                "_id": 12,
                 "recipe_name": "Lentil Soup",
+                "recipe_picture": "https://i.ibb.co/2KyrHnK/slider-3.jpg",
                 "ingredients": [
                     "2 tablespoons olive oil",
                     "1 onion, chopped",
@@ -296,8 +308,9 @@
         "description": "A passionate and innovative chef with many years of experience in French and Italian cuisine. Skilled in menu planning, food preparation, and kitchen management. Has a reputation for creating unique and flavorful dishes using seasonal and locally-sourced ingredients.",
         "recipe_info": [
             {
-                "_id": 1,
+                "_id": 13,
                 "recipe_name": "Lentil Soup",
+                "recipe_picture": "https://i.ibb.co/7KvZHzM/slider-1.jpg",
                 "ingredients": [
                     "2 tablespoons olive oil",
                     "1 onion, chopped",
@@ -316,8 +329,9 @@
                 "rating": 4.5
             },
             {
-                "_id": 2,
+                "_id": 14,
                 "recipe_name": "Spaghetti and Meatballs",
+                "recipe_picture": "https://i.ibb.co/2KyrHnK/slider-3.jpg",
                 "ingredients": [
                     "1 pound spaghetti",
                     "1 pound ground beef",
@@ -337,8 +351,9 @@
                 "rating": 4.8
             },
             {
-                "_id": 3,
+                "_id": 15,
                 "recipe_name": "Lentil Soup",
+                "recipe_picture": "https://i.ibb.co/PrVgvvP/slider-2.jpg",
                 "ingredients": [
                     "2 tablespoons olive oil",
                     "1 onion, chopped",
@@ -368,8 +383,9 @@
         "description": "A passionate and innovative chef with many years of experience in French and Italian cuisine. Skilled in menu planning, food preparation, and kitchen management. Has a reputation for creating unique and flavorful dishes using seasonal and locally-sourced ingredients.",
         "recipe_info": [
             {
-                "_id": 1,
+                "_id": 16,
                 "recipe_name": "Lentil Soup",
+                "recipe_picture": "https://i.ibb.co/2KyrHnK/slider-3.jpg",
                 "ingredients": [
                     "2 tablespoons olive oil",
                     "1 onion, chopped",
@@ -388,8 +404,9 @@
                 "rating": 4.5
             },
             {
-                "_id": 2,
+                "_id": 17,
                 "recipe_name": "Spaghetti and Meatballs",
+                "recipe_picture": "https://i.ibb.co/PrVgvvP/slider-2.jpg",
                 "ingredients": [
                     "1 pound spaghetti",
                     "1 pound ground beef",
@@ -409,8 +426,9 @@
                 "rating": 4.8
             },
             {
-                "_id": 3,
+                "_id": 18,
                 "recipe_name": "Lentil Soup",
+                "recipe_picture": "https://i.ibb.co/7KvZHzM/slider-1.jpg",
                 "ingredients": [
                     "2 tablespoons olive oil",
                     "1 onion, chopped",
