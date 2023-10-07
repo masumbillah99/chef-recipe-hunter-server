@@ -27,5 +27,5 @@ app.get("/country", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`running port: ${port}`);
+  console.log(`Chef Server running port on: ${port}`);
 });
